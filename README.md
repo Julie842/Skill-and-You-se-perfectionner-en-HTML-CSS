@@ -12,8 +12,7 @@ Affichage des horaires : liste claire des heures d'ouverture pour chaque jour de
 Blocs de citations : mise en valeur d'aphorismes et d'extraits littéraires philosophiques (Nietzsche, Montaigne, Machiavel).
 
 🛠️ Technologies utilisées :
-HTML5 : structuration sémantique du contenu 
-(<header>, <nav>, <main>, <article>, <footer>, etc.).
+HTML5 : structuration sémantique du contenu (<header>, <nav>, <main>, <article>, <footer>, etc.).
 CSS3 :
 Variables CSS (:root) pour la gestion centralisée de la charte graphique.
 Layout Flexbox pour le centrage du menu, des cartes de livres et du pied de page.
